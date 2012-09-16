@@ -4,7 +4,7 @@ title: Alec Peden
 ---
 
 {% for post in site.posts limit:5 %}
-<div class="posttitle"><a href="{{ post.url }}">{{ post.title }}</a></div>
-<div class="date">{{ post.date | date: "%A, %B %d, %Y" }}</div>
+<a href="{{ post.url }}">{{ post.title }}</a>
+{{ post.date | date: "%A, %B %d, %Y" }}
 {{ post.content }}
 {% endfor %}
