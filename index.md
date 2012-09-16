@@ -8,3 +8,4 @@ title: Alec Peden
 {{ post.date | date: "%A, %B %d, %Y" }}
 {{ post.content }}
 {% endfor %}
+<hr>
