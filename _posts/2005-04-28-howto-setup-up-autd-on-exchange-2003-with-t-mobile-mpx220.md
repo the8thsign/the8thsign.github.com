@@ -36,12 +36,12 @@ Finally got away from the PDA / Cellphone combo I always carried around with the
 1. Start > Settings > More > Data Connections
 2. Press Menu > Edit Connections
 3. Go down to GPRS Connections
-4. Menu > Add
-Fill in as following:
-Description: T-Mobile GPRS
-Connects to: The Internet
-Access Point: wap.voicestream.com
-Leave the rest blank
+4. Menu > Add  
+Fill in as following:  
+Description: T-Mobile GPRS  
+Connects to: The Internet  
+Access Point: wap.voicestream.com  
+Leave the rest blank  
 5. Hit Done Twice
 6. Goto Proxy Connections
 7. Menu > Add
@@ -60,13 +60,13 @@ Leave rest blank
 
 1. Start > Activesync
 2. Menu > Options > Server Settings > Connections
-Fill in as following:
-User Name: [your exchange username]
-Password: [your exchange password]
-Domain: [your windows domain]
-Check Save Password
-Server Name: [your server ie mail.yourdomain.com]
-Check Use SSL Connection
+Fill in as following:  
+User Name: [your exchange username]  
+Password: [your exchange password]  
+Domain: [your windows domain]  
+Check Save Password  
+Server Name: [your server ie mail.yourdomain.com]  
+Check Use SSL Connection  
 3. Click Done until your back at the Active Screen
 4. Menu > Server Settings
 5. Click Inbox > Check Sync Inbox with a Server then set your options as you see fit
@@ -79,11 +79,11 @@ Check Use SSL Connection
 12. Change the "Off-peak time sync" to "When new items arrive"
 13. Sync again
 14. Menu > Options > Server Settings > Connections
-15. Scroll down to Address device using
-Fill in as follows:
-Address device using: SMTP Address
-Service Provider Name: T-Mobile (should be auto-filled)
-Device Phone Number: [your mobile number]
-Text Message Address: [yourmobilenumber]@tmomail.net
+15. Scroll down to Address device using  
+Fill in as follows:  
+Address device using: SMTP Address  
+Service Provider Name: T-Mobile (should be auto-filled)  
+Device Phone Number: [your mobile number]  
+Text Message Address: [yourmobilenumber]@tmomail.net  
 18. Click Done til your at Activesync screen
 17. Sync
