@@ -1,7 +1,7 @@
 ---
 layout: post
-category :
-tags : []
+category : apple
+tags : [apple, tech, iphone]
 ---
 {% include JB/setup %}
 
