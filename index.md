@@ -7,7 +7,8 @@ title: Alec Peden
 <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
 {{ post.date | date: "%A, %B %d, %Y" }}
 {{ post.content }}
-{% endfor %}
 <hr>
+{% endfor %}
+
 
 

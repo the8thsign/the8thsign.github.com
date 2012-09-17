@@ -1,4 +1,4 @@
-<center>![Macbook Air](http://www.the8thsign.com/wp-content/uploads/2008/01/gallery-big-04.jpg)</center>
+![Macbook Air](http://www.the8thsign.com/wp-content/uploads/2008/01/gallery-big-04.jpg)
 
 With Macworld 2008 wrapping up, I thought I’d touch on some of the announcements made this year. I took the week off hoping to go to Macworld again this year but no such luck. Somethings came up, good stuff which I’ll touch base with in a future post, so I couldn’t make it this year. So like millions of other geeks, I loaded up my browser tabs with as much coverage as I could. Which didn’t go as well as planned. Iphonealley’s Ustream didn’t work out, Twitter buckled under the pressure and even Engadget had its share of hiccups. Macrumors was once again the winner with up to the minute coverage.
 
