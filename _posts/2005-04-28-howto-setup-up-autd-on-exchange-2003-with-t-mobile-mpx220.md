@@ -45,13 +45,13 @@ Leave the rest blank
 5. Hit Done Twice
 6. Goto Proxy Connections
 7. Menu > Add
-Fill in as following:
-Description: T-Mobile GPRS
-Connects from: The Internet
-Connects to: WAP Network
-Proxy: 216.155.165.50:8080
-Type: HTTP
-Leave rest blank
+Fill in as following:  
+Description: T-Mobile GPRS  
+Connects from: The Internet  
+Connects to: WAP Network  
+Proxy: 216.155.165.50:8080  
+Type: HTTP  
+Leave rest blank  
 8. Click Done until your back at your Homescreen
 9. Start > Internet Explorer > Menu > Options > Connections
 10. Select Network : WAP Network
