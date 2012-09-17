@@ -11,8 +11,8 @@ tags:
 
 ---
 
-Automated TiVo To Go to MPEG Decrypting
-_____________________________________
+###Automated TiVo To Go to MPEG Decrypting###
+
 
 **UPDATED: 8/20/05:**
 Looks like Moonlight XMuxer Pro was updated and breaks my graphedit filter. Should be an easy fix but instead of fixing it, i'm going to redirect you to use <a href="http://prish.com/etivo/tbr.htm" onclick="javascript:urchinTracker ('/outbound/article/prish.com');">Direct Show Dump</a> from the guys at eTivo. This program is made to go .tivo to mpg conversions without all the hacks like with autodrvconvert. No filters to install either. I've switched to this myself. Only problem so far is the 'Watched Folders' option isn't working for me. Once that is fixed, it will be perfect for my usage. I'd suggest everyone to take a look at it and give it a try. If people still want me to update the filters and whatnot with autodrvconvert then i will.
