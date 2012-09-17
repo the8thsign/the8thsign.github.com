@@ -38,12 +38,12 @@ Step by Step:
 5. Double click to open "AutoDVRconvert.exe"
 6. Set the following settings:
 
->Filter Graph to Use: TTG.xgr
->Input Path: "your Tivo recoding folder"
->Output Path: "your Tivo recoding folder" or any other folder you >want
->Input File Extension: tivo
->Output File Extension: mpg
->Check "AutoStart Auto Converter"
+Filter Graph to Use: TTG.xgr
+Input Path: "your Tivo recoding folder"
+Output Path: "your Tivo recoding folder" or any other folder you >want
+Input File Extension: tivo
+Output File Extension: mpg
+Check "AutoStart Auto Converter"
 
 7. Click Apply Settings
 8. Restart AutoDVRConvert.exe
@@ -55,4 +55,4 @@ Few Known issues:
 2. Program locks the .TIVO files until you close it. You wont be able to delete the .tivo files until you close Autodrvconvert.exe
 3. "Delete original after conversion "setting doesn't work
 
-<a href="http://www.the8thsign.com/download/auto_ttg.zip">Download</a>
+<a href="http://www.the8thsign.com/download/auto_ttg.zip" class="btn btn-large btn-primary">Download</a>
