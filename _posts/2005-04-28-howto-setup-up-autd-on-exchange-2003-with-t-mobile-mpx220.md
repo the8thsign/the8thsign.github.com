@@ -31,7 +31,7 @@ Finally got away from the PDA / Cellphone combo I always carried around with the
 
 
 
-####MPx220 Connection Settings
+**MPx220 Connection Settings**
 
 1. Start > Settings > More > Data Connections
 2. Press Menu > Edit Connections
@@ -56,7 +56,7 @@ Leave rest blank
 9. Start > Internet Explorer > Menu > Options > Connections
 10. Select Network : WAP Network
 
-####Setup Activesync on MPx220
+**Setup Activesync on MPx220**
 
 1. Start > Activesync
 2. Menu > Options > Server Settings > Connections
