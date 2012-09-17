@@ -16,7 +16,7 @@ Finally got away from the PDA / Cellphone combo I always carried around with the
 
 -----------------
 
-####Exchange 2003 setup:
+**Exchange 2003 setup:**
 
 1. Install Exchange 2003 Service Pack 1 if you haven't already
 2. Follow the registry edit in <a href="http://support.microsoft.com/?kbid=841995">this KB article </a>
@@ -29,7 +29,7 @@ Finally got away from the PDA / Cellphone combo I always carried around with the
 9. Type "@tmomail.net" for the SMTP Domain
 10. Close out all windows
 
----------------------
+
 
 ####MPx220 Connection Settings
 
@@ -37,21 +37,21 @@ Finally got away from the PDA / Cellphone combo I always carried around with the
 2. Press Menu > Edit Connections
 3. Go down to GPRS Connections
 4. Menu > Add
-<blockquote> Fill in as following:
+Fill in as following:
 Description: T-Mobile GPRS
 Connects to: The Internet
 Access Point: wap.voicestream.com
-Leave the rest blank</blockquote>
+Leave the rest blank
 5. Hit Done Twice
 6. Goto Proxy Connections
 7. Menu > Add
-<blockquote> Fill in as following:
+Fill in as following:
 Description: T-Mobile GPRS
 Connects from: The Internet
 Connects to: WAP Network
 Proxy: 216.155.165.50:8080
 Type: HTTP
-Leave rest blank</blockquote>
+Leave rest blank
 8. Click Done until your back at your Homescreen
 9. Start > Internet Explorer > Menu > Options > Connections
 10. Select Network : WAP Network
@@ -60,13 +60,13 @@ Leave rest blank</blockquote>
 
 1. Start > Activesync
 2. Menu > Options > Server Settings > Connections
-<blockquote> Fill in as following:
+Fill in as following:
 User Name: [your exchange username]
 Password: [your exchange password]
 Domain: [your windows domain]
 Check Save Password
 Server Name: [your server ie mail.yourdomain.com]
-Check Use SSL Connection</blockquote>
+Check Use SSL Connection
 3. Click Done until your back at the Active Screen
 4. Menu > Server Settings
 5. Click Inbox > Check Sync Inbox with a Server then set your options as you see fit
@@ -80,10 +80,10 @@ Check Use SSL Connection</blockquote>
 13. Sync again
 14. Menu > Options > Server Settings > Connections
 15. Scroll down to Address device using
-<blockquote> Fill in as follows:
+Fill in as follows:
 Address device using: SMTP Address
 Service Provider Name: T-Mobile (should be auto-filled)
 Device Phone Number: [your mobile number]
-Text Message Address: [yourmobilenumber]@tmomail.net</blockquote>
+Text Message Address: [yourmobilenumber]@tmomail.net
 18. Click Done til your at Activesync screen
 17. Sync
